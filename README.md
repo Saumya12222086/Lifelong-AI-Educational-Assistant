@@ -32,10 +32,10 @@ A Generative AI + Deep Learning-based system that:
 - Proposed system architecture
 
 ## 🔗 Live Demo
-[Website link-](https://id-preview--011ea338-8ed0-4b37-87c1-e7416d38788a.lovable.app/)
+[Website link](https://id-preview--011ea338-8ed0-4b37-87c1-e7416d38788a.lovable.app/)
 
 ## 📎 Report
-(Add Google Drive or file link)
+[Google Drive](https://docs.google.com/document/d/1AnhWAdKfKtAZfz65N3hj032OytRzL__4/edit?usp=sharing&ouid=105318640415430926921&rtpof=true&sd=true)
 
 ## 👤 Author
 Saumya Singh
